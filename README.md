@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning javascript using react and nodejs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: fahrizal.netlify.app
+- 📫 How to reach me: https://www.fahrizal.netlify.app
 
 <!---
 Vouyeuz/Vouyeuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
