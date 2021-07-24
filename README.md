@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vouyeuz
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning javascript using react and nodejs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript using react, next.js, and styled-components
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: https://fahrizal.netlify.app
 
 <!---
